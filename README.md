@@ -40,6 +40,10 @@ depends on it.
 
 # Changelog
 
+## 0.9.2 - 2025-01-12
+
+- Tested and verified compatibility with Foundry version 13 and SWADE version 5.1.0
+
 ## 0.9.1 - 2024-11-06
 
 ### Fixed
